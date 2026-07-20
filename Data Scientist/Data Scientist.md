@@ -1,4 +1,4 @@
-# Create README.md for Data Scientist Roadmap
+# Create Roadmap for Data Scientist
 
 🤖 Data Scientist Roadmap Using Python (Beginner to Advanced)
 
